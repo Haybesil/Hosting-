@@ -388,7 +388,7 @@ img {
 }
 
 .languages .card:hover {
-    transform: translateX(55px)
+    transform: translateY(15px)
 }
 
 /* Footer */
