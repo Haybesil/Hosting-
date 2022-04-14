@@ -438,10 +438,12 @@ footer .social a {
     
     footer .social a {
       margin: 0 10px;
-      display: flex;
+
       font-size: 6px;
     }
 
-
+    footer .social {
+      display: flex;
+    } 
 
 }
