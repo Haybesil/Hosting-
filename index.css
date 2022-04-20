@@ -151,7 +151,7 @@ img {
     height: 350px;
     width: 400px;
     padding: 40px;
-    z-index: 100;
+    /*z-index: 100;*/
 }
 .showcase-form  .form-control {
     margin: 30px 0;
