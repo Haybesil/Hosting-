@@ -49,6 +49,7 @@ img {
     background-color: var(--primary-color);
     color: #fff;
     height: 70px;
+    position: sticky;
 }
 
 .navbar ul {
